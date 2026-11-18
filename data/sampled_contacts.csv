@@ -1,0 +1,6 @@
+contact_id,school,slot,stratum,selection_probability,invited
+C01,莲池小学,周六早,交通支持,0.4,true
+C02,莲池小学,周六早,常规,0.2,true
+C03,松风小学,周日午,交通支持,0.5,true
+C04,松风小学,周日午,常规,0.2,false
+C05,榆树小学,周六午,未覆盖区,0.0,false
