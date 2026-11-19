@@ -1,4 +1,5 @@
-measure_id,site,issue,cost_minor,applies_to
-I1,西入口,坡道,50000,交通支持
-I2,全馆,字幕,30000,全部
-I3,东廊,接驳,40000,交通支持
+measure_id,site,issue,cost_minor,applies_to,basic_guarantee
+I1,西入口,坡道,50000,交通支持,false
+I2,全馆,字幕,30000,全部,false
+I3,东廊,接驳,40000,交通支持,false
+I4,服务台,无障碍咨询,12000,全部,true

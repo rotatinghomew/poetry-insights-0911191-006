@@ -1,5 +1,5 @@
-response_id,contact_id,respondent,stage,access_issue,attended
-Q01,C01,本人,入口,坡道,是
-Q02,C01,陪同者,中段,字幕,是
-Q03,C02,本人,入口,无,是
-Q04,C03,陪同者,中段,接驳,否
+response_id,contact_id,batch,respondent_role,subject_id,stage,reached,access_issue,attended
+Q01,C01,1,本人,C01,入口,是,坡道,是
+Q02,C01,1,陪同者,C01,中段,是,字幕,是
+Q03,C02,1,本人,C02,入口,是,无,是
+Q04,C03,2,陪同者,P03A,中段,否,接驳,否
